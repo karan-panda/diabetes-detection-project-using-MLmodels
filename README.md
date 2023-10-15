@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mrpanda1206/diabetes-detection-project-using-MLmodels.git
+git clone https://github.com/karan-panda/diabetes-detection-project-using-MLmodels.git
 ``` 
 
 2. Navigate to the project directory
